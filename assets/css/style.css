@@ -1,6 +1,6 @@
 body {
-    font-family: 'Sintony', sans-serif;
-    background-color: #473E4B;
+    font-family: 'Cinzel Decorative', cursive;
+    background-color: rgb(67, 71, 71);
     padding-top: 1%;
 }
 
@@ -10,13 +10,13 @@ header, #gif-buttons {
 
 h1 {
     font-size: 3em;
-    color: #930416;
+    color: crimson;
     font-weight: 700;
-    text-shadow: 1px 1px #eab64d;
+    text-shadow: 1px 1px goldenrod;
 }
 
 #add-gif {
-    background-color: #D9CEB2;
+    background-color: crimson;
     cursor: pointer;
 }
 
@@ -36,14 +36,14 @@ p {
 .character {
     margin-right: 1%;
     margin-bottom: 1%;
-    background-color: #DCBF8F;
+    background-color: darkgoldenrod;
 }
 .gifDiv {
     margin-right: 1%;
 }
 
 .rating{
-    background-color: #DCBF8F;
+    background-color: darkgoldenrod;
     color: white;
 }
 
